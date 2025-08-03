@@ -1,0 +1,19 @@
+/* @font-face {
+    font-family: web_423;
+    src:
+    url(./../fonts/Vazir.ttf),
+    url(./../fonts/Vazir.eot),
+    url(./../fonts/Vazir.woff),
+    url(./../fonts/Vazir.woff2);
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+
+*{
+    font-family: Cairo;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
